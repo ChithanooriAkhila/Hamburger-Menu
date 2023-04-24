@@ -1,0 +1,21 @@
+/* Write your CSS here */
+* {
+  margin: 0;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.popup {
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.item {
+  display: flex;
+}
